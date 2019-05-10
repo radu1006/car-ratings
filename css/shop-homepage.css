@@ -6,3 +6,13 @@
 body {
   padding-top: 56px;
 }
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+div.carousel-item {
+  width:900px;
+  height: 450px;
+}
+.top-buffer { margin-top:20px; }
